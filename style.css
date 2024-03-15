@@ -1,0 +1,106 @@
+h1 {
+    text-align: center;
+  }
+
+  body {
+    color: #FAFFFF;
+    background-color: #131418;
+  }
+
+  h2 {
+    font-size:45px;
+  }
+
+  button {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    font-size:40px;
+    text-align: center;
+    background-color: #131418;
+    color: #FAFFFF;
+    border:1px ridge #FAFFFF;
+    width:30%;
+    border-radius: 30px;
+  }
+  
+  .inputBoxes {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .ballBox {
+    display: flex;
+    justify-content: center;
+  }
+
+  input {
+    font-size:40px;
+    margin-top: 30px;
+    border:1px solid black;
+    border-radius: 30px;
+
+  }
+  
+  .inputBoxes input {
+    width: 80%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .ballBox input {
+    display: flex;
+    width: 39.1%;
+  }
+  
+  .mobileContainer {
+    display:flex;
+  }
+
+  .entry {
+    display:flex;
+    justify-content: center;
+    margin-left:auto;
+    margin-right: auto;
+  }
+
+  .entry h2 {
+    display: block;
+    text-align: center;
+  }
+
+  .entry p {
+    font-size: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .entry img {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    height:50vh;
+  }
+
+  .id {
+    display:None;
+  }
+
+  .carousel-inner {
+    background-image: linear-gradient(0deg, #131418 0%, rgba(59,181,218,1) 100%);
+  }
+
+  .carousel-control-next {
+    scale: 100%;
+  }
+  
+  .carousel-control-prev {
+    scale: 100%;
+  }
+
+  footer{
+    height:20px;
+  }
